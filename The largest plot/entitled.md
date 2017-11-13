@@ -1,5 +1,5 @@
 # The Largest plot
-> You need to a plot for your keeping your sheeps but there are rocks obstructing your field and sheeps hate rocks, so you want to give your sheeps the largest plot possible without rocks inside it.
+> You need to find a plot to keep your sheeps but there are rocks obstructing your field and sheeps hate rocks, so you want to give your them the largest plot possible without rocks inside it.
 
 ----------
 
