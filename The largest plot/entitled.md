@@ -65,7 +65,7 @@ OOOXOOO
 .X.XOOO
 OOO..X.
 OOOX...
-OOO.OOO
+OOO....
 
 1---
 Y: 1
