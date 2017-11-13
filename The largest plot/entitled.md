@@ -1,9 +1,9 @@
-#The Largest plot
+# The Largest plot
 > You need to a plot for your keeping your sheeps but there are rocks obstructing your field and sheeps hate rocks, so you want to give your sheeps the largest plot possible without rocks inside it.
 
 ----------
 
-###Rules :
+### Rules :
 - A plot is always a square and have a minimum of 1m*1m size (1m*1m = 1 char)
 - In the data files:
 	- A `"\n"` correspond to 1m
@@ -12,15 +12,15 @@
 - If there are more than one plot finded, show the others plot (With output for each plot founded)
 - You can just use the given data files to create this algorithm
 
-####The output :
+#### The output :
 - An output file with the largest plot replaced by `'O'` instead of `'.'` (Obstacle and outside the plot will be the same as the data file)
 - Four values
 	- The Y axis in the file
 	- The X axis in the file
 	- The size S of the plot
 
-###Examples:
-####1 :
+### Examples:
+#### 1 :
 This input :
 ```
 .X..X
@@ -45,7 +45,7 @@ S: 2
 
 
 ----------
-####2 :
+#### 2 :
 This input :
 ```
 ...X...
