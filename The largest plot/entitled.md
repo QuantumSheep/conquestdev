@@ -1,10 +1,12 @@
 # The Largest plot
 > You need to find a plot to keep your sheeps but there are rocks obstructing your field and sheeps hate rocks, so you want to give your them the largest plot possible without rocks inside it.
-
+> 
+> The goal is to find the biggest(s) plot(s) possible in your field.
 ----------
 
 ### Rules :
-- A plot is always a square and have a minimum of 1m*1m size (1m*1m = 1 char)
+- A plot is always a square and have a minimum of 1m\*1m size (1m\*1m = 1 char)
+- Only the biggest plot need to be selected, exemple if a plot of 3\*3 exists you don't need a 2\*2 plot
 - In the data files:
 	- A `"\n"` correspond to 1m
 	- One `'.'` is nothing and one `'X'` is an obstacle
@@ -27,7 +29,7 @@ This input :
 ...X.
 .X...
 ...X.
-.....
+..X..
 ```
 
 Will become this ouput :
